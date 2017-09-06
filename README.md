@@ -1,6 +1,5 @@
 # erl_lzw
-LZW implementation in Erlang, as explained in
-[https://en.wikipedia.org/wiki/Lempel–Ziv–Welch]
+LZW implementation in Erlang, as explained in https://en.wikipedia.org/wiki/Lempel–Ziv–Welch
 
 This is not optimized in any way, but was written just for fun.
 
